@@ -37,11 +37,3 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
-
-## Curriculum
-
-The goal is to improve my proficiency with Python and the use of Python for Data Science. Im committing to at least 2 hours a day learning python, coding exercises and small projects. The following is the daily log and curriculum I'm following.
-Days 1-3: 
-Completed an Introduction to Python including: Python Basics, Lists, Functions & Packages and NumPy
-Completed Matplotlib: Histograms, Scatter Plot, Line Plot, Labels, Ticks/more customizations. Started Dictionaries and Pandas.
-Days 4-6:
